@@ -1,0 +1,3 @@
+
+Amenazas: Uso de contraseñas débiles o fáciles de adivinar; falta de conciencia del usuario.
+Solución: Desarrollar una herramienta que evalúe y recomiende contraseñas seguras.

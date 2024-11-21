@@ -1,0 +1,2 @@
+Amenazas: Requisitos incompletos o mal definidos.
+Solución: Consultar buenas prácticas de seguridad  entrevistas con usuarios, análisis de contraseñas comunes.
